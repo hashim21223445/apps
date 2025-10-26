@@ -54,7 +54,7 @@
     "inquirer": "^8.2.7",
     "is-hexcolor": "^1.0.0",
     "is-url": "^1.2.2",
-    "jimp": "^0.3.7",
+    "jimp": "^1.0.2",
     "js-yaml": "^3.13.1",
     "lint-staged": "^16.1.2",
     "make-color-accessible": "^1.2.0",
